@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shahin-max/weather-react.git/static/css/main.2da3f705.chunk.css",
+    "main.js": "/shahin-max/weather-react.git/static/js/main.dc27d7ce.chunk.js",
+    "main.js.map": "/shahin-max/weather-react.git/static/js/main.dc27d7ce.chunk.js.map",
+    "runtime-main.js": "/shahin-max/weather-react.git/static/js/runtime-main.b2dc7a9a.js",
+    "runtime-main.js.map": "/shahin-max/weather-react.git/static/js/runtime-main.b2dc7a9a.js.map",
+    "static/js/2.aac8105d.chunk.js": "/shahin-max/weather-react.git/static/js/2.aac8105d.chunk.js",
+    "static/js/2.aac8105d.chunk.js.map": "/shahin-max/weather-react.git/static/js/2.aac8105d.chunk.js.map",
+    "static/js/3.ecf1d144.chunk.js": "/shahin-max/weather-react.git/static/js/3.ecf1d144.chunk.js",
+    "static/js/3.ecf1d144.chunk.js.map": "/shahin-max/weather-react.git/static/js/3.ecf1d144.chunk.js.map",
+    "index.html": "/shahin-max/weather-react.git/index.html",
+    "static/css/main.2da3f705.chunk.css.map": "/shahin-max/weather-react.git/static/css/main.2da3f705.chunk.css.map",
+    "static/js/2.aac8105d.chunk.js.LICENSE.txt": "/shahin-max/weather-react.git/static/js/2.aac8105d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2dc7a9a.js",
+    "static/js/2.aac8105d.chunk.js",
+    "static/css/main.2da3f705.chunk.css",
+    "static/js/main.dc27d7ce.chunk.js"
+  ]
+}
